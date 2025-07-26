@@ -85,13 +85,14 @@ Watch the system in action! Practical demonstration videos can be found in the `
 
 ---
 
-## 🙋 Contact
+## 📬 Author Info
 
-For queries or collaboration, feel free to reach out to the contributor directly.
-
-🧑 **Ayman Zafar**  
-📧 Email: [add your email]  
-📍 United International University, Dhaka, Bangladesh
+**Ayman Zafar**  
+B.Sc. in Electrical and Electronic Engineering  
+United International University  
+Email: [nov.aymanz@gmail.com]  
+GitHub: [https://github.com/aymanzafar]
+Linkedin: [https://www.linkedin.com/in/ayman-zafar]
 
 ---
 
