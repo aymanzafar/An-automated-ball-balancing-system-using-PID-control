@@ -40,11 +40,11 @@ This is a hands-on control system project, ideal for students or engineers inter
 
 ## 📂 Repository Structure
 📁 Presentation/
-└── An_automated_ball_balancing.pptx
+.└── An_automated_ball_balancing.pptx
 
 📁 Videos/
-├── Ball_Balancing_Demo_1.mp4
-└── Ball_Balancing_Demo_2.mp4
+.├── Ball_Balancing_Demo_1.mp4
+.└── Ball_Balancing_Demo_2.mp4
 
 ---
 
