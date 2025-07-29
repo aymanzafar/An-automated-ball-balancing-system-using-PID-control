@@ -1,5 +1,5 @@
 ## Control System Project
-# An Automated Ball Balancing System using PID Control
+# Automated Ball Balancing System using PID Control
 
 This project demonstrates a real-time control system that stabilizes a ball on a tilting platform using a PID (Proportional–Integral–Derivative) controller. The system uses an Arduino UNO, an ultrasonic sensor, and servo motors to detect and correct the ball's position on the platform.
 
